@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mohammadsaud-0110/saud_nxm201_cicd/issues"
   },
-  "homepage": "https://github.com/mohammadsaud-0110/saud_nxm201_cicd#readme"
+  "homepage": "https://github.com/mohammadsaud-0110/saud_nxm201_cicd#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }

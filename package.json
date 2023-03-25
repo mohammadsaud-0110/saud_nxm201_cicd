@@ -17,7 +17,7 @@
     "url": "https://github.com/mohammadsaud-0110/saud_nxm201_cicd/issues"
   },
   "homepage": "https://github.com/mohammadsaud-0110/saud_nxm201_cicd#readme",
-  "dependencies": {
-    "shortid": "^2.2.16"
+  "devDependencies": {
+    "eslint": "^8.36.0"
   }
 }
